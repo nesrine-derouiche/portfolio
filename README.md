@@ -2,14 +2,14 @@
 
 # 🌟 Nesrine Derouiche - Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-nine-chlsgo1jjz.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://nesrine-derouiche.is-a.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-nesrine77-181717?style=for-the-badge&logo=github)](https://github.com/nesrine77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nesrine-derouiche)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#license)
 
 **A modern, responsive portfolio showcasing software & mobile engineering projects**
 
-[View Live Demo](https://portfolio-pi-nine-chlsgo1jjz.vercel.app/) · [Report Bug](https://github.com/nesrine77/portfolio/issues) · [Request Feature](https://github.com/nesrine77/portfolio/issues)
+[View Live Demo](https://nesrine-derouiche.is-a.dev) · [Report Bug](https://github.com/nesrine77/portfolio/issues) · [Request Feature](https://github.com/nesrine77/portfolio/issues)
 
 </div>
 
@@ -137,7 +137,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-nesrine-s-dev-showcase/
+portfolio/
 ├── public/                 # Static assets
 ├── src/
 │   ├── assets/            # (Moved to public/assets)
@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Nesrine Derouiche**
 
-- 🌐 Website: [portfolio-pi-nine-chlsgo1jjz.vercel.app](https://portfolio-pi-nine-chlsgo1jjz.vercel.app/)
+- 🌐 Website: [nesrine-derouiche.is-a.dev](https://nesrine-derouiche.is-a.dev)
 - 💼 LinkedIn: [@nesrine-derouiche](https://linkedin.com/in/nesrine-derouiche)
 - 🐙 GitHub: [@nesrine77](https://github.com/nesrine77)
 - 📧 Email: [nesrine.derouiche15@gmail.com](mailto:nesrine.derouiche15@gmail.com)
