@@ -48,7 +48,7 @@ export function Hero() {
             <p className="text-lg md:text-xl text-muted-foreground mb-6 animate-fade-up delay-200">
               Software & Mobile Engineering Student | Full-Stack Developer
               <br />
-              <span className="text-primary font-medium">Python, Flutter, Node.js</span>
+              <span className="text-primary font-medium">Swift, Kotlin, Flutter, Node.js</span>
             </p>
 
             {/* CTA Buttons */}
