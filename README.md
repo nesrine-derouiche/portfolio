@@ -279,7 +279,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🌐 Website: [nesrine-derouiche.is-a.dev](https://nesrine-derouiche.is-a.dev)
 - 💼 LinkedIn: [@nesrine-derouiche](https://linkedin.com/in/nesrine-derouiche)
-- 🐙 GitHub: [@nesrine77](https://github.com/nesrine77)
+- 🐙 GitHub: [@nesrine-derouiche](https://github.com/nesrine-derouiche)
 - 📧 Email: [nesrine.derouiche15@gmail.com](mailto:nesrine.derouiche15@gmail.com)
 
 ---
