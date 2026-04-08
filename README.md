@@ -3,7 +3,7 @@
 # 🌟 Nesrine Derouiche - Portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://nesrine-derouiche.is-a.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-nesrine77-181717?style=for-the-badge&logo=github)](https://github.com/nesrine77)
+[![GitHub](https://img.shields.io/badge/GitHub-nesrine_derouiche-181717?style=for-the-badge&logo=github)](https://github.com/nesrine-derouiche)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nesrine-derouiche)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#license)
 
