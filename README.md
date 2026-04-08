@@ -295,9 +295,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/nesrine77/portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/nesrine77/portfolio?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/nesrine77/portfolio?style=social)
+![GitHub stars](https://img.shields.io/github/stars/nesrine-derouiche/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/nesrine-derouiche/portfolio?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/nesrine-derouiche/portfolio?style=social)
 
 ---
 
